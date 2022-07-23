@@ -1,0 +1,61 @@
+body{
+    background-color: #1F2937;
+    font-family: roboto;
+}
+
+h1{
+    font-size: 24px;
+    color: #F9FAF8;
+}
+h2{
+    font-size: 48px;
+    color: #F9FAF8;
+    font-style: bold;
+}
+h3 {
+    font-size: 48px;
+    font-style: bold;
+    color: #1F2937;
+}
+h4 {
+    font-size: 36px;
+    font-style: italic;
+    color: #1F2937;
+
+}
+p{
+    font-size: 18px;
+    color: #E5E7EB;
+}
+button{
+    background-color: #3882F6;
+}
+.info{
+    background-color: white;
+}
+.sign-up{
+    background-color: white;
+}
+.blue-box{
+    background-color: #3882F6;
+}
+.quote{
+    background-color: #E5E7EB;
+}
+
+header {
+
+}
+a {
+    /* this removes the line under our links */
+    text-decoration: none;
+    color: #E5E7EB;
+  }
+  
+  ul {
+    list-style-type: none;
+    display: flex;
+    margin: 0;
+    padding: 0;
+    gap: 16px;   
+  }
